@@ -1,0 +1,81 @@
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 29970705
+
+
+1_initial_migration.js
+======================
+
+   Replacing 'Migrations'
+   ----------------------
+   > transaction hash:    0xf3de05c34a06b25a8adf56a2e18b5cc97c49098f5a1ff0e05b4ded57681da3db
+   > Blocks: 0            Seconds: 13
+   > contract address:    0xb6e8F9740e2B1f1ceD48485c62Fcd1d337175063
+   > account:             0x768B09469c92e8d3FE57FD01c837E694e1f5aFF6
+   > balance:             3.655739405804585939
+   > gas used:            236270
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0023627 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0023627 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'STERC721Token'
+   -------------------------
+   > transaction hash:    0x68819216567801873dac210e5c42055e4c0761e4e097aea4d8d92da6bdadeb5f
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x646F97a63B01EF36BABA4D7eaecbCe85173CDBA7
+   > account:             0x768B09469c92e8d3FE57FD01c837E694e1f5aFF6
+   > balance:             3.625538365804585939
+   > gas used:            2974336
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02974336 ETH
+
+
+   Replacing 'SquareVerifier'
+   --------------------------
+   > transaction hash:    0xccd0fc0af375a731cd89785a700b42430c4afb8f557c3011aaa0b1dbbee73d7f
+   > Blocks: 0            Seconds: 8
+   > contract address:    0x6995256e29DFf43d982Aed04295d7A5C072e070d
+   > account:             0x768B09469c92e8d3FE57FD01c837E694e1f5aFF6
+   > balance:             3.615335515804585939
+   > gas used:            1020285
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.01020285 ETH
+
+
+   Replacing 'SolnSquareVerifier'
+   ------------------------------
+   > transaction hash:    0x52e51be81125d44f70db23cb20b935fcda2403d2cc796f3b733ab372322af22c
+   > Blocks: 0            Seconds: 8
+   > contract address:    0xb0e87F9B6f11E431184BB13C8Bbe94B38b7Ba731
+   > account:             0x768B09469c92e8d3FE57FD01c837E694e1f5aFF6
+   > balance:             3.580281045804585939
+   > gas used:            3505447
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03505447 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.07500068 ETH
+
+
+Summary
+=======
+> Total deployments:   4
+> Final cost:          0.07736338 ETH
