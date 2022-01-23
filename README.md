@@ -590,6 +590,9 @@ Details of the migration can be found on the file rinkeby_migration.txt.
 ### Verifier Contract Address
 0x6995256e29DFf43d982Aed04295d7A5C072e070d
 
+### SolnSquareVerifier Contract Address
+0xb0e87F9B6f11E431184BB13C8Bbe94B38b7Ba731
+
 ## Testing the code
 
 ### Requirements
